@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @milindkrishna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Milind Krishna
+- 👀 I’m interested in Backend Development using Spring Boot and Nodejs
+- 🌱 I’m currently learning Cloud Technology - AWS
+- 💞️ I’m looking to collaborate on Backend Services
+- 📫 Reach out to me on milindkrishna1998@gmail.com
 
 <!---
 milindkrishna/milindkrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
