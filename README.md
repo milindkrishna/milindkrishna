@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dynamic IT professional with 4 years of experience spanning Software Test Engineering (SDET) and Salesforce Support Analysis, delivering high-quality solutions across testing, automation, and CRM operations. Skilled in Java, Selenium, TestNG, Cucumber (BDD), API Testing, and Appium, with a proven track record of building scalable automation frameworks that reduced manual effort by 80% and ensured 95%+ on-time test delivery. Experienced in CI/CD integration with Jenkins, UAT, and regression testing, collaborating closely with DevOps and cross-functional teams to improve product quality and accelerate releases.
+Dynamic IT professional with 4 years of experience spanning Software Test Engineering (SDET) and Salesforce/CPQ QA Analyst, delivering high-quality solutions across testing, automation, and CRM operations. Skilled in Java, Selenium, TestNG, Cucumber (BDD), API Testing, and Appium, with a proven track record of building scalable automation frameworks that reduced manual effort by 80% and ensured 95%+ on-time test delivery. Experienced in CI/CD integration with Jenkins, UAT, and regression testing, collaborating closely with DevOps and cross-functional teams to improve product quality and accelerate releases.
 
 
 ## 🌐 Socials:
